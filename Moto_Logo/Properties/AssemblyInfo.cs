@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Motorola Boot Logo Maker")]
-[assembly: AssemblyCopyright("Copyright ©  2014 CaitSith2")]
+[assembly: AssemblyCopyright("Copyright ©  2014-2015 CaitSith2")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.7.0825.0242")]
-[assembly: AssemblyFileVersion("1.7.0825.0242")]
+[assembly: AssemblyVersion("2.4.1021.2217")]
+[assembly: AssemblyFileVersion("2.4.1021.2217")]
